@@ -1,8 +1,7 @@
 # NgSpice_data_generator
-Python script to generate data from netlist file
+**Python script to generate data from netlist file**
 
-Data 
----
+
 Ngspice is a mixed-level/mixed-signal electronic circuit simulator that is compatible with linux, windows and mac. 
 Ngspice can write simulation data such input and output as output data in a separate file. This script automatically run a netlist in Ngspice and is able to downsample or upsample among data to generate fixed-size dataset
 
